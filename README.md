@@ -15,3 +15,8 @@ We specify the parameters needed to fit our model, and perform validation by sup
 
 ## Performance Metrics
 The performance metric used for this example is the classification accuracy. This simple recurrent neural network with long short term memory is able to guess whether or not a review is positive almost 9 out of 10 times.
+
+## Results Snapshot
+The following image shows the last few lines of code executed with a printout of the RNN details, training history, and performance metrics. The final line shows the model accuracy on the test data set, which was around 87%.
+
+![alt text](https://github.com/edwardsta/sentiment-classifier-rnn-lstm/blob/master/RNN-LSSTM.PNG)
